@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monument on Hugo Theme - Monument</title>
+    <link>https://hugo-theme-monument.github.io/topics/monument/</link>
+    <description>Recent content in Monument on Hugo Theme - Monument</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 18:01:14 +0800</lastBuildDate>
+    
+	<atom:link href="https://hugo-theme-monument.github.io/topics/monument/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Theme - Monument README</title>
+      <link>https://hugo-theme-monument.github.io/posts/readme/</link>
+      <pubDate>Mon, 01 Jul 2019 18:01:14 +0800</pubDate>
+      
+      <guid>https://hugo-theme-monument.github.io/posts/readme/</guid>
+      <description>Hugo Theme - Monument A colorful Hugo theme with various out-of-box features.
+🎈Demo
+Features A posts and words counting chart on the home page. Category links and social links on the sidebar. Timeline organized posts and categories lists. Automatic code highlighting supported by highlight.</description>
+    </item>
+    
+  </channel>
+</rss>
